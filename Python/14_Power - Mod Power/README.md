@@ -14,4 +14,4 @@ pow(x,y)
 pow(x,y,z)
 ```
 
-### returns x to the power of y modeulus z
+### returns x to the power of y modulus z
